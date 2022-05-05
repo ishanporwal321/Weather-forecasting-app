@@ -1,0 +1,19 @@
+body{
+  background-image: url("WeatherApp.jpg");
+  background-color: black;
+
+}
+
+.heading{
+  text-align: center;
+  margin-top: 150px;
+  font-size: 40px;
+  color: #AC7D88;
+}
+
+.city{
+  font-size: 30px;
+  margin-top: 150px;
+  color: white;
+  text-align: center;
+}
